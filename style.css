@@ -3,14 +3,14 @@
 # General
 --------------------------------------------------------------*/
 body {
-  font-family: "Poppins", sans-serif;
+  font-family: "Poppins",sans-serif;
   color: #444444;
   /* max-width: 1440px; */
 }
 
 a {
   text-decoration: none;
-  color: #ffb03b;
+  color: #e7881c;
 }
 
 a:hover {
@@ -24,7 +24,7 @@ h3,
 h4,
 h5,
 h6 {
-   font-family: "Satisfy", sans-serif; 
+  font-family: "Satisfy", "Arial", sans-serif; 
 }
 
 .max-width-container{
@@ -42,7 +42,7 @@ h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #ffb03b;
+  background: #e7881c;
   width: 40px;
   height: 40px;
   border-radius: 50px;
@@ -87,7 +87,7 @@ h6 {
 }
 
 #topbar i {
-  color: #ffb03b;
+  color: #e7881c;
   line-height: 0;
 }
 
@@ -142,7 +142,7 @@ h6 {
 # Book a table button Menu
 --------------------------------------------------------------*/
 .book-a-table-btn {
-  background: #ffb03b;
+  background: #e7881c;
   color: #fff;
   border-radius: 50px;
   margin: 0 0 0 20px;
@@ -219,7 +219,7 @@ h6 {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: #ffb03b;
+  color: #e7881c;
 }
 
 .navbar .dropdown ul {
@@ -256,7 +256,7 @@ h6 {
 .navbar .dropdown ul a:hover,
 .navbar .dropdown ul .active:hover,
 .navbar .dropdown ul li:hover>a {
-  color: #ffb03b;
+  color: #e7881c;
 }
 
 .navbar .dropdown:hover>ul {
@@ -352,7 +352,7 @@ h6 {
 .navbar-mobile a:hover,
 .navbar-mobile .active,
 .navbar-mobile li:hover>a {
-  color: #ffb03b;
+  color: #e7881c;
 }
 
 .navbar-mobile .getstarted,
@@ -387,7 +387,7 @@ h6 {
 .navbar-mobile .dropdown ul a:hover,
 .navbar-mobile .dropdown ul .active:hover,
 .navbar-mobile .dropdown ul li:hover>a {
-  color: #ffb03b;
+  color: #e7881c;
 }
 
 .navbar-mobile .dropdown>.dropdown-active {
@@ -446,7 +446,7 @@ h6 {
 }
 
 #hero h2 span {
-  color: #ffb03b;
+  color: #e7881c;
 }
 
 #hero p {
@@ -526,12 +526,12 @@ h6 {
   -webkit-animation-delay: 0.8s;
   animation-delay: 0.8s;
   color: #fff;
-  border: 2px solid #ffb03b;
+  border: 2px solid #e7881c;
 }
 
 #hero .btn-menu:hover,
 #hero .btn-book:hover {
-  background: #ffb03b;
+  background: #e7881c;
   color: #fff;
 }
 
@@ -576,7 +576,7 @@ section {
 }
 
 .section-title h2 span {
-  color: #ffb03b;
+  color: #e7881c;
 }
 
 .section-title p {
@@ -697,7 +697,7 @@ section {
 
 .about .content ul i {
   font-size: 20px;
-  color: #ffb03b;
+  color: #e7881c;
   position: absolute;
   left: 0;
   top: 2px;
@@ -727,7 +727,7 @@ background: white;
 .about .play-btn {
   width: 94px;
   height: 94px;
-  background: radial-gradient(#ffb03b 50%, rgba(255, 176, 59, 0.4) 52%);
+  background: radial-gradient(#e7881c 50%, rgba(255, 176, 59, 0.4) 52%);
   border-radius: 50%;
   display: block;
   position: absolute;
@@ -775,7 +775,7 @@ background: white;
 }
 
 .about .play-btn:hover::after {
-  border-left: 15px solid #ffb03b;
+  border-left: 15px solid #e7881c;
   transform: scale(20);
 }
 
@@ -869,7 +869,7 @@ background: white;
 .menu #menu-flters li:hover,
 .menu #menu-flters li.filter-active {
   color: #fff;
-  background: #ffb03b;
+  background: #e7881c;
 }
 
 .menu #menu-flters li:last-child {
@@ -1008,7 +1008,7 @@ background: white;
 .events .event-item h3 {
   font-weight: 600;
   font-size: 26px;
-  color: #ffb03b;
+  color: #e7881c;
   margin-top: 32px;
 }
 
@@ -1020,7 +1020,7 @@ background: white;
 }
 
 .events .event-item .price span {
-  border-bottom: 2px solid #ffb03b;
+  border-bottom: 2px solid #e7881c;
 }
 
 .events .event-item ul {
@@ -1035,7 +1035,7 @@ background: white;
 .events .event-item ul i {
   font-size: 20px;
   padding-right: 4px;
-  color: #ffb03b;
+  color: #e7881c;
 }
 
 .events .event-item p:last-child {
@@ -1047,7 +1047,7 @@ background: white;
 }
 
 .events .event-item .img-fluid {
-  box-shadow: #ffb03b 0px 3px 8px;
+  box-shadow: #e7881c 0px 3px 8px;
   border-radius: 5%;
   margin: auto 0px;
   width: 480px;
@@ -1068,7 +1068,7 @@ background: white;
 }
 
 .events .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #ffb03b;
+  background-color: #e7881c;
 }
 
 /*--------------------------------------------------------------
@@ -1151,7 +1151,7 @@ background: white;
 }
 
 .book-a-table .email-form button[type=reset] {
-  background: #ffb03b;
+  background: #e7881c;
   border: 0;
   padding: 10px 24px;
   color: #fff;
@@ -1247,7 +1247,7 @@ background: white;
 }
 
 .testimonials .testimonial-item .stars {
-  color: #ffb03b;
+  color: #e7881c;
   margin-bottom: 10px;
 }
 
@@ -1289,7 +1289,7 @@ background: white;
 }
 
 .testimonials .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #ffb03b;
+  background-color: #e7881c;
 }
 
 @media (min-width: 992px) {
@@ -1312,7 +1312,7 @@ background: white;
 
 .contact .info i {
   font-size: 20px;
-  color: #ffb03b;
+  color: #e7881c;
   float: left;
   width: 44px;
   height: 44px;
@@ -1341,7 +1341,7 @@ background: white;
 }
 
 .contact .info:hover i {
-  background: #ffb03b;
+  background: #e7881c;
   color: #fff;
 }
 
@@ -1410,7 +1410,7 @@ background: white;
 }
 
 .contact .email-form button[type=reset] {
-  background: #ffb03b;
+  background: #e7881c;
   border: 0;
   padding: 10px 24px;
   color: #fff;
@@ -1456,7 +1456,7 @@ background: white;
 #footer h3 {
   font-size: 36px;
   font-weight: 700;
-  color: #ffb03b;
+  color: #e7881c;
   position: relative;
   padding: 0;
   margin: 0 0 15px 0;
@@ -1489,7 +1489,7 @@ background: white;
 }
 
 #footer .social-links a:hover {
-  background: #ffb03b;
+  background: #e7881c;
 }
 
 #footer .copyright {
